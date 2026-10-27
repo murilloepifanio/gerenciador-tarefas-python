@@ -205,6 +205,6 @@ Algumas melhorias planejadas para o projeto:
 
 ## Autor
 
-**Murillo Epifânio de Almeida**
+**Murillo Epifânio Rodrigues de Almeida**
 
 Projeto desenvolvido para fins de estudo e prática de programação em Python.
