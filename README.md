@@ -167,13 +167,13 @@ Tenha o Python instalado no computador.
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/murilloepifanio/gerenciador-tarefas-python.git
 ```
 
 Entre na pasta:
 
 ```bash
-cd nome-do-projeto
+cd gerenciador-tarefas-python
 ```
 
 Execute:
